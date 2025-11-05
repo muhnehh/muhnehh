@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Muhammed Nehan</h1>
 
 ### 📫 **Email:** [muhammednehan07@gmail.com](mailto:muhammednehan07@gmail.com)  
-### 📄 **Resume / CV:** [View Here]([https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto](https://drive.google.com/file/d/1jetCFgOvIj9bMlFyMlwocw0gY1anA3U8/view?usp=sharing))
+### 📄 **Resume / CV:** [View Here]([https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto](https://drive.google.com/file/d/1jetCFgOvIj9bMlFyMlwocw0gY1anA3U8/view?usp=sharing])
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nehan/)
