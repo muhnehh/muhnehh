@@ -5,7 +5,7 @@
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nehan/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/396422775_VerbRot_Stress-Testing_LLM_Safety_on_Informal_Internet_Dialects)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Muhammed-Nehan?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJnbG9iYWxIZWFkZXIifX0)
 
 # 📄 Publications
 
