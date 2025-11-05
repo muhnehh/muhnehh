@@ -13,7 +13,7 @@
   Authors: *Muhammed Nehan, [add co-authors here]*  
   Publication: [ResearchGate](https://www.researchgate.net/publication/396422775_VerbRot_Stress-Testing_LLM_Safety_on_Informal_Internet_Dialects)
 
-https://counter.kuber.studio/muhnehh/hacker/count.svg
+![Profile views](https://counter.kuber.studio/muhnehh/hacker/count.svg)
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
