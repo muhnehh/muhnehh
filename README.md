@@ -12,6 +12,7 @@
 - Title: **VerbRot: Stress-Testing LLM Safety on Informal Internet Dialects**  
   Authors: *Muhammed Nehan*  
   Publication: [ResearchGate](https://www.researchgate.net/publication/396422775_VerbRot_Stress-Testing_LLM_Safety_on_Informal_Internet_Dialects)
+- Hit me up if you want to collaborate on a paper!
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
