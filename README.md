@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Muhammed Nehan</h1>
 
 ### 📫 **Email:** [muhammednehan07@gmail.com](mailto:muhammednehan07@gmail.com)  
-### 📄 **Resume / CV:** [View Here](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
+### 📄 **Resume / CV:** [View Here]([https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto](https://drive.google.com/file/d/1jetCFgOvIj9bMlFyMlwocw0gY1anA3U8/view?usp=sharing))
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nehan/)
@@ -25,9 +25,3 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammed-nehan/muhammed-nehan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammed-nehan/muhammed-nehan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/muhammed-nehan/muhammed-nehan/output/github-snake.svg" />
-</picture>
