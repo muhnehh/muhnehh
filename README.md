@@ -29,7 +29,6 @@
 | 🌿 **EcoPlanner** *(Top 3 @ Microsoft UAE)* | AI app for eco-friendly group meetup planning |
 | 🚚 **[FleetNexus](https://github.com/muhnehh/awr-hackathon-win)** *(Winner @ AWR Hackathon)* | Predictive fleet maintenance system (99.7 % accuracy, multi-agent XGBoost + GRU ensemble) |
 | 🧬 **[Kinase Prediction AI](https://github.com/muhnehh/hacknation2025-kinase-prediction)** *(HackNation 2025)* | Protein–ligand binding model (ECFP4 + ESM2, AUROC ≈ 0.82, 23 MB edge deploy) |
-| 🧭 **AlphaBind Mini** | Modular ML pipeline for protein–ligand binding (AUROC 0.90) |
 | 🧠 **Cognitive Load Monitor** *(AU Internal Hackathon Top 25 %) | Real-time mental-fatigue detection |
 | 💡 **Li-Fi Traffic System @ Expo 2020** | LED-based smart road-safety prototype (Terra Pavilion) |
 
