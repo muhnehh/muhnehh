@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Muhammed Nehan</h1>
+<h1 align="center">hozgeldeniz! i'm محمد നെഹാൻ</h1>
 
 ### 📫 **Email:** [muhammednehan07@gmail.com](mailto:muhammednehan07@gmail.com)  
 ### 📄 **Resume / CV:** [View Here](https://drive.google.com/file/d/1jetCFgOvIj9bMlFyMlwocw0gY1anA3U8/view?usp=sharing)
