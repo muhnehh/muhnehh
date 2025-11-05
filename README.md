@@ -10,7 +10,7 @@
 # 📄 Publications
 
 - Title: **VerbRot: Stress-Testing LLM Safety on Informal Internet Dialects**  
-  Authors: *Muhammed Nehan, [add co-authors here]*  
+  Authors: *Muhammed Nehan*  
   Publication: [ResearchGate](https://www.researchgate.net/publication/396422775_VerbRot_Stress-Testing_LLM_Safety_on_Informal_Internet_Dialects)
 
 # 💻 Tech Stack
