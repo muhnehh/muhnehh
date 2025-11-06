@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour! Ben محمد നെഹാൻ</h1>
+<h1 align="center">👋 sup! nehan here </h1>
 <h3 align="center">AI Student • Researcher • Builder</h3>
 
 <p align="center">
