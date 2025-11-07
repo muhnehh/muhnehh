@@ -13,25 +13,8 @@
 ## 🚀 What I’ve Been Up To
 
 🎓 **AI @ Ajman University (BSc ‘28)**  
-💡 **5× Hackathon Winner** — Microsoft UAE 🇦🇪 · AW Rostamani Group · AU CEIT Sustainability · Code Battle ’23 · Crack-Hack ’22  
 🧠 **LLM Researcher** — currently writing a paper on *evals / reasoning / agents / RAG / code*, aiming **ACL · EMNLP · NeurIPS · ICLR**  
-📊 **Data Science Intern @ AW Rostamani Group** — built predictive maintenance + routing engine → **−10.7 % travel time** across 200 + routes  
-🌏 **Fellow @ Young Asians × Emergent Ventures** — wrote *VerbRot*, testing LLM safety on Internet dialects  
-🤝 **Event Coordinator @ GDG on Campus (AU)**  
-🌍 **Ambassador @ HackNation Global AI Hackathon** — scaled apps **100 → 2800 + globally**
-
----
-
-## 🧪 Notable Builds
-
-| ⚙️ Project | 🏆 Highlight |
-|-------------|--------------|
-| 🌿 **EcoPlanner** *(Top 3 @ Microsoft UAE)* | AI app for eco-friendly group meetup planning |
-| 🚚 **[FleetNexus](https://github.com/muhnehh/awr-hackathon-win)** *(Winner @ AWR Hackathon)* | Predictive fleet maintenance system (99.7 % accuracy, multi-agent XGBoost + GRU ensemble) |
-| 🧬 **[Kinase Prediction AI](https://github.com/muhnehh/hacknation2025-kinase-prediction)** *(HackNation 2025)* | Protein–ligand binding model (ECFP4 + ESM2, AUROC ≈ 0.82, 23 MB edge deploy) |
-| 🧠 **Cognitive Load Monitor** *(AU Internal Hackathon Top 25 %) | Real-time mental-fatigue detection |
-| 💡 **Li-Fi Traffic System @ Expo 2020** | LED-based smart road-safety prototype (Terra Pavilion) |
-
+💡 **5× Hackathon Winner**
 ---
 
 ## 📄 Publication
