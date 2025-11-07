@@ -16,7 +16,7 @@
   <img src="https://counter.kuber.studio/muhnehh/hacker/count.svg" alt="Profile views"/>
 </p>
 
----
+
 ## 💻 Tech Stack
 
 <p align="center">
