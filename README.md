@@ -9,12 +9,9 @@
 </p>
 
 ---
-
-## 🚀 What I’ve Been Up To
-
-🎓 **AI @ Ajman University (BSc ‘28)**  
-💡 **5× Hackathon Winner**
-🧠 **LLM Researcher** — currently writing a paper on *evals / reasoning / agents / RAG / code*, aiming **ACL · EMNLP · NeurIPS · ICLR**  
+- 🎓 **AI @ Ajman University (BSc ‘28)**  
+- 💡 **5× Hackathon Winner**
+- 🧠 **LLM Researcher** — currently writing a paper on *evals / reasoning / agents / RAG / code*, aiming **ACL · EMNLP · NeurIPS · ICLR**  
 ---
 
 ## 📄 Publication
