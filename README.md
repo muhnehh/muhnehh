@@ -13,16 +13,14 @@
 ## 🚀 What I’ve Been Up To
 
 🎓 **AI @ Ajman University (BSc ‘28)**  
-🧠 **LLM Researcher** — currently writing a paper on *evals / reasoning / agents / RAG / code*, aiming **ACL · EMNLP · NeurIPS · ICLR**  
 💡 **5× Hackathon Winner**
+🧠 **LLM Researcher** — currently writing a paper on *evals / reasoning / agents / RAG / code*, aiming **ACL · EMNLP · NeurIPS · ICLR**  
 ---
 
 ## 📄 Publication
 
 - **VerbRot — Stress-Testing LLM Safety on Informal Internet Dialects**  
-  *Author :* Muhammed Nehan  
-  🔗 [ResearchGate Link](https://www.researchgate.net/publication/396422775_VerbRot_Stress-Testing_LLM_Safety_on_Informal_Internet_Dialects)  
-  *→ Hit me up if you want to collab on a paper!*
+  🔗 [ResearchGate](https://www.researchgate.net/publication/396422775_VerbRot_Stress-Testing_LLM_Safety_on_Informal_Internet_Dialects)  
 
 ---
 
