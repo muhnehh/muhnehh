@@ -11,7 +11,7 @@
 ---
 - 🎓 **AI @ Ajman University (BSc ‘28)**  
 - 💡 **5× Hackathon Winner**
-- 🧠 **LLM Researcher** — currently writing a paper on *evals / reasoning / agents / RAG / code*, aiming **ACL · EMNLP · NeurIPS · ICLR**  
+- 🧠 **LLM Researcher** — currently writing a paper on *evals / reasoning / agents / RAG*, aiming **ACL · EMNLP · NeurIPS · ICLR**  
 ---
 
 ## 📄 Publication
@@ -45,4 +45,4 @@
 
 ---
 
-<p align="center"><b>📍 Always building. Always learning.</b></p>
+<p align="center"><b>always building. always learning.</b></p>
