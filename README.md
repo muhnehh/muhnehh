@@ -1,4 +1,9 @@
 <h1 align="center">👋 sup! nehan here </h1>
+---
+
+<p align="center"><b>always building. always learning.</b></p>
+
+---
 
 <p align="center">
   <a href="mailto:muhammednehan07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -30,6 +35,4 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=fff"/>
 </p>
 
----
 
-<p align="center"><b>always building. always learning.</b></p>
