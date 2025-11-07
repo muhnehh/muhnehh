@@ -1,5 +1,4 @@
 <h1 align="center">👋 sup! nehan here </h1>
-<h3 align="center">AI • Dev</h3>
 
 <p align="center">
   <a href="mailto:muhammednehan07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -9,17 +8,12 @@
 </p>
 
 ---
-- 💡 **5× Hackathon Winner**
-- 🧠 **LLM Researcher** — currently writing a paper on *evals / reasoning / agents / RAG*, aiming **ACL · EMNLP · NeurIPS · ICLR**  
----
 
-## 📄 Publication
-
-- **VerbRot — Stress-Testing LLM Safety on Informal Internet Dialects**  
-  🔗 [ResearchGate](https://www.researchgate.net/publication/396422775_VerbRot_Stress-Testing_LLM_Safety_on_Informal_Internet_Dialects)  
+<p align="center">
+  <img src="https://counter.kuber.studio/muhnehh/hacker/count.svg" alt="Profile views"/>
+</p>
 
 ---
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -34,12 +28,6 @@
   <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=fff"/>
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=fff"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://counter.kuber.studio/muhnehh/hacker/count.svg" alt="Profile views"/>
 </p>
 
 ---
