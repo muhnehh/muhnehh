@@ -2,16 +2,6 @@
 
 <p align="center"><b>always building. always learning.</b></p>
 
-
-
-<p align="center">
-  <a href="mailto:muhammednehan07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/muhammd-nehan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.researchgate.net/proile/Muhammed-Nehan"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1jetCFgOvIj9bMlFyMlocw0gY1anA3U8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"></a>
-</p>
-
-
 <p align="center">
   <img src="https://counter.kuber.studio/muhnehh/hacker/count.svg" alt="Profile views"/>
 </p>
