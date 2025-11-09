@@ -8,8 +8,8 @@
 
 
 ## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -32,7 +32,6 @@
 ![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=for-the-badge&logo=google&logoColor=fff)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=fff)
 ![Azure Maps](https://img.shields.io/badge/Azure%20Maps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=fff)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=fff)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=fff)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=fff)
